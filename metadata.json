@@ -1,0 +1,6 @@
+{
+  "name": "GrowKaro AI",
+  "description": "AI Stock Investment Advisor with cash allocation and portfolio tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
